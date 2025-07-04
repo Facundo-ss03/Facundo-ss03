@@ -42,7 +42,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
   <br><br>
-  <br><br>
 <blockquote align="center">
   <i>
     "Whoever you are, whatever your social position, whether high or low, always have great strength and determination. Do everything with great love and faith in God
@@ -51,7 +50,6 @@
   <br><br>
   <cite>- Ayrton Senna</cite>
 </blockquote>
-  <br><br>
   <br><br>
 
 

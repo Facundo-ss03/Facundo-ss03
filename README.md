@@ -29,6 +29,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://github.com/Facundo-ss03"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/Facundo-ss03"><img src="![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
+<a href="mailto:js1697436@gmail.com?subject=Asunto del correo"><img src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
 </p>

@@ -60,10 +60,12 @@
   <cite>- L. Peter Deutsch</cite>
 </blockquote>
 
-<p align="center" color="teal" font-style: italic font-family:Arial, sans-serif>
+<p align="center">
+	<font color="teal">
 	“Whoever you are, whatever your social position, whether high or low,
 	always have great strength and determination. Do everything with great 
 	love and faith in God because one day you will reach your goal.”
+	</font>
 </p>
 
 

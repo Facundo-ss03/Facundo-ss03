@@ -41,34 +41,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<p align="center" style="color:teal; font-style:italic; font-family:Arial, sans-serif;">
-	“Whoever you are, whatever your social position, whether high or low,
-	always have great strength and determination. Do everything with great 
-	love and faith in God because one day you will reach your goal.”
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-<p align="center" style="font-size:smaller; text-align:right; font-family:Arial, sans-serif;">
-  - Ayrton Senna
-</p>
-
-<blockquote>
-  <i>
-	“Whoever you are, whatever your social position, whether high or low,
-	always have great strength and determination. Do everything with great 
-	love and faith in God because one day you will reach your goal.”
-  </i>
-  <br><br>
-  <cite>- L. Peter Deutsch</cite>
-</blockquote>
-
-<p align="center">
-	<font color="teal">
-	“Whoever you are, whatever your social position, whether high or low,
-	always have great strength and determination. Do everything with great 
-	love and faith in God because one day you will reach your goal.”
-	</font>
-</p>
-
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 

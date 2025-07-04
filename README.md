@@ -49,6 +49,7 @@
 <p align="center" style="font-size:smaller; text-align:right; font-family:Arial, sans-serif;">
   - Ayrton Senna
 </p>
+
 <blockquote>
   <i>
 	“Whoever you are, whatever your social position, whether high or low,
@@ -58,6 +59,12 @@
   <br><br>
   <cite>- L. Peter Deutsch</cite>
 </blockquote>
+
+<p align="center" color="teal" font-style: italic font-family:Arial, sans-serif>
+	“Whoever you are, whatever your social position, whether high or low,
+	always have great strength and determination. Do everything with great 
+	love and faith in God because one day you will reach your goal.”
+</p>
 
 
 

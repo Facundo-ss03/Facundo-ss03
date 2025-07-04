@@ -51,7 +51,9 @@
 </i>
 </p>
 <br><br>
+<p align="center">
 <cite>- Ayrton Senna</cite>
+</p>
 <br><br>
 
 

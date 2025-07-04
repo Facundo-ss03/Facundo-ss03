@@ -41,9 +41,25 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
+<style>
+    p.frase {
+      color: teal;
+      font-style: italic;
+      font-family: Arial, sans-serif;
+    }
+
+    p.autor {
+      font-size: smaller;
+      text-align: right;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+  <p class="frase">
+    I would make a strong case that programming languages have not improved qualitatively in the last 40 years.  
+    There is no programming language in use today that is qualitatively better than Simula-67.
+  </p>
+  <p class="autor">– L. Peter Deutsch</p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 

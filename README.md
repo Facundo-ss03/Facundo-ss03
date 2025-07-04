@@ -41,13 +41,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-  <i color=blue>
+<blockquote align="center" color=blue>
+  <i>
     I would make a strong case that programming languages have not improved qualitatively in the last 40 years.
     There is no programming language in use today that is qualitatively better than Simula-67.
   </i>
   <br><br>
   <cite>- L. Peter Deutsch</cite>
-
+</blockquote>
 
 
 ### 🤝🏻 &nbsp;Connect with Me

@@ -42,7 +42,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="“Seas quien seas, sea cual sea tu posición social, sea alta o baja; ten siempre mucha fuerza y determinación. Haz todo con mucho amor y con mucha fe en Dios porque un día llegarás a tu meta”">
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me

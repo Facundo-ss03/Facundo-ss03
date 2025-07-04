@@ -41,12 +41,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<p align = "center">
-	“Whoever you are, whatever your social position, whether high or low,
-	always have great strength and determination. Do everything with great 
-	love and faith in God because one day you will reach your goal.”
-</p>
-<p style="color:teal; font-style:italic; font-family:Arial, sans-serif;">
+<p align="center" style="color:teal; font-style:italic; font-family:Arial, sans-serif;">
 	“Whoever you are, whatever your social position, whether high or low,
 	always have great strength and determination. Do everything with great 
 	love and faith in God because one day you will reach your goal.”

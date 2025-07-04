@@ -42,12 +42,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <blockquote align="center">
-  <i align="center">
+  <i>
     I would make a strong case that programming languages have not improved qualitatively in the last 40 years.
     There is no programming language in use today that is qualitatively better than Simula-67.
   </i>
   <br><br>
-  <cite align="center">- L. Peter Deutsch</cite>
+  <cite>- L. Peter Deutsch</cite>
 </blockquote>
 
 

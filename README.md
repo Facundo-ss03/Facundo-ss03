@@ -29,6 +29,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://github.com/Facundo-ss03"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/></a>
+<a href="https://github.com/Facundo-ss03"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>

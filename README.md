@@ -39,7 +39,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="[https://www.adityavsingh.com](https://github.com/Facundo-ss03)"><img src="[https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&logoColor=white"/></a>
+<a href="[https://www.adityavsingh.com](https://github.com/Facundo-ss03)"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/></a>
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>

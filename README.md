@@ -45,8 +45,8 @@
 <p align="center">
 <i align="center">
   <b>
-    "Whoever you are, whatever your social position, whether high or low, always have great strength and determination. Do everything with great love and faith in God
-    because one day you will reach your goal."
+    “Whoever you are, whatever your social position, whether high or low, always have great strength and determination. Do everything with great love and faith in God
+    because one day you will reach your goal.”
   </b>
 </i>
 </p>
@@ -55,6 +55,18 @@
 </p>
 <br><br>
 
+  <br><br>
+<p align="center">
+<i align="center">
+  <b>
+    “Seas quien seas, sea cual sea tu posición social, sea alta o baja; ten siempre mucha fuerza y determinación. Haz todo con mucho amor y con mucha fe en Dios porque un         día llegarás a tu meta”
+  </b>
+</i>
+</p>
+<p align="center">
+<cite>- Ayrton Senna</cite>
+</p>
+<br><br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
